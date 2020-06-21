@@ -1,5 +1,5 @@
 # Python
-python türkçe açıklamalı hızlı kampın devamı gibi 
+Python türkçe açıklamalı hızlı kampın devamı niteliğinde
 
 TEMEL KLASÖR İLE KONULARI AÇIKLAMALARLA BAHSETTİK.
 WORKSHOPS İLE ALIŞTIRMA OLARAK BİRKAÇ ÇALIŞMA YAPTIK.
