@@ -22,7 +22,7 @@ def selamVer2(isim , soyIsim = "arkadaş"):  #default değer her zaman fonksiyon
     print("Merhaba " + isim + " " + soyIsim)
 
 selamVer2("Derin")
-selamVer2("Engin","Demiroğ")  
+selamVer2("Engin","Derin")  
 
 
 
